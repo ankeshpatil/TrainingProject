@@ -13,6 +13,7 @@ import javax.persistence.Id;
  * Model Class of Trainer
  */
 @Entity
+
 public class Trainer {
 
 	@Id
